@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework Exercise 1</string>
+    <string name="sweat_switch">Make that guy hotter!</string>
+    <string name="btn_instruct">Say something!</string>
+    <string name="word_cool">Nice to meet you!</string>
+    <string name="word_think">thonk...</string>
+    <string name="word_hot">So hot!!!</string>
+</resources>
