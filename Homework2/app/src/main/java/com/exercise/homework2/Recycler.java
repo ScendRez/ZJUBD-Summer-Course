@@ -58,7 +58,7 @@ public class Recycler extends AppCompatActivity implements MyAdaptor.IOnItemClic
     @Override
     public void onItemClick(int position, String data) {
         Toast.makeText(Recycler.this, "点击了第" + position + "条", Toast.LENGTH_SHORT).show();
-        mAdaptor.addData(position + 1, new String("不要戳人家了啦❤"));
+        mAdaptor.addData(position + 1, new String("别戳了"));
     }
 
     @Override
