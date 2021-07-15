@@ -51,7 +51,11 @@ public class ClockView extends View {
         @Override
         public void handleMessage(@NonNull Message msg) {
             super.handleMessage(msg);
-            invalidate();
+            if(msg.what==250)
+            {
+                invalidate();
+                sendEmptyMessageDelayed(250,1000-(System.currentTimeMillis()%1000));
+            }
         }
     };
 
@@ -90,6 +94,8 @@ public class ClockView extends View {
         numberPaint.setTextSize(66);
         numberPaint.setColor(Color.WHITE);
         numberPaint.setTextAlign(Paint.Align.CENTER);
+
+        handler.sendEmptyMessage(250);
     }
 
     @Override
@@ -125,7 +131,6 @@ public class ClockView extends View {
         drawTimeNeedles(canvas);
         drawTimeNumbers(canvas);
         // TODO 实现时间的转动，每一秒刷新一次
-        handler.sendEmptyMessage(250);
     }
 
     // 绘制表盘上的刻度
@@ -194,11 +199,11 @@ public class ClockView extends View {
 
     private RectF degConvertPos(float degree)
     {
-        double radians = Math.toRadians((450-degree)%360);
+        double radians = Math.toRadians((degree+270)%360);
         float moveX = 0f;
         float moveY = 0f;
         float moveEndX = (float) Math.cos(radians);
-        float moveEndY = (float) Math.sin(radians)*(-1f);
+        float moveEndY = (float) Math.sin(radians);
         RectF line = new RectF(moveX,moveY,moveEndX,moveEndY);
         return line;
     }
@@ -232,5 +237,11 @@ public class ClockView extends View {
                 calendar.get(Calendar.HOUR),
                 calendar.get(Calendar.MINUTE),
                 calendar.get(Calendar.SECOND));
+    }
+
+    @Override
+    protected void onDetachedFromWindow() {
+        super.onDetachedFromWindow();
+        handler.removeCallbacksAndMessages(null);
     }
 }
