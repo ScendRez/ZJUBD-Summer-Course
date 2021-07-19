@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\53eba362dfde9487168f4b10e8c0872f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\9bbde820504f2e629c7cedaadc05c5bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f06759519a2313c0bfdfef304c5d13d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\0fc5166d1afd18982211b7c897ba30d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\ce3f9dabec9436b19a37d5d51c8a99b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\81f2e4305f004b141bb86d2323a54809\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\07157c5d11ba56a17cfaac8b25741262\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\c797f1f4920f9b6d9da9ec483ef374a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\1e0f87efcb879533d4ad41cd7d7af57b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a2eb70011ad787bfdc24ba11bf1059b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\376f3934a66614eb554957296c43359a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\971a7de022c2fafd25e55175309c9fad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\e301296b2efa2bdad1430f0301490503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\64acfca1fee8c8f937c4edbe41a6d87e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\ba3edea93356b538d144613e92f12e3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\c37955d538955909896eae86ac82e720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\45a358727f90529f9ef3416994323e96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\03da2d8ae24b981dfa6c8350ccd9e007\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\374951515f8423b58f5552bae3d31101\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a194465d8ae67ff5ab7a86fb18d834a8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\d1cd4c98e28b89a7589a5f9ebd505b55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\35b443a4d9694166075d51611f5cb037\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\409c80113d9c16bf33261317d2715b40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\72bdd7b89e961847c8e4af88c5f66125\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\2fa7aed35c99ec72ac532db2643a3b37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f42f7ca3201d5acd5288895546f6af1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\aa211848803b411a3d9c19ec85eb22d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\162851cce10f422389b0a44f06042339\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\38e31d9599537abd2fd1122a5ac7b0e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\aac0893f01c83ecd922bc63d847a5392\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\03952ffe16a5f057f382b9476aca76bd\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\53eba362dfde9487168f4b10e8c0872f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\53eba362dfde9487168f4b10e8c0872f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f06759519a2313c0bfdfef304c5d13d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f06759519a2313c0bfdfef304c5d13d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\374951515f8423b58f5552bae3d31101\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\374951515f8423b58f5552bae3d31101\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a194465d8ae67ff5ab7a86fb18d834a8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a194465d8ae67ff5ab7a86fb18d834a8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\374951515f8423b58f5552bae3d31101\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.debug.FileDemoActivity
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:28:19-57
+activity#com.byted.camp.todolist.debug.SpDemoActivity
+ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml:29:19-55
+uses-sdk
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\53eba362dfde9487168f4b10e8c0872f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\53eba362dfde9487168f4b10e8c0872f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\9bbde820504f2e629c7cedaadc05c5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\9bbde820504f2e629c7cedaadc05c5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f06759519a2313c0bfdfef304c5d13d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f06759519a2313c0bfdfef304c5d13d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\0fc5166d1afd18982211b7c897ba30d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\0fc5166d1afd18982211b7c897ba30d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\ce3f9dabec9436b19a37d5d51c8a99b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\ce3f9dabec9436b19a37d5d51c8a99b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\81f2e4305f004b141bb86d2323a54809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\81f2e4305f004b141bb86d2323a54809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\07157c5d11ba56a17cfaac8b25741262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\07157c5d11ba56a17cfaac8b25741262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\c797f1f4920f9b6d9da9ec483ef374a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\c797f1f4920f9b6d9da9ec483ef374a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\1e0f87efcb879533d4ad41cd7d7af57b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\1e0f87efcb879533d4ad41cd7d7af57b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a2eb70011ad787bfdc24ba11bf1059b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a2eb70011ad787bfdc24ba11bf1059b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\376f3934a66614eb554957296c43359a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\376f3934a66614eb554957296c43359a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\971a7de022c2fafd25e55175309c9fad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\971a7de022c2fafd25e55175309c9fad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\e301296b2efa2bdad1430f0301490503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\e301296b2efa2bdad1430f0301490503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\64acfca1fee8c8f937c4edbe41a6d87e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\64acfca1fee8c8f937c4edbe41a6d87e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\ba3edea93356b538d144613e92f12e3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\ba3edea93356b538d144613e92f12e3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\c37955d538955909896eae86ac82e720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\c37955d538955909896eae86ac82e720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\45a358727f90529f9ef3416994323e96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\45a358727f90529f9ef3416994323e96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\03da2d8ae24b981dfa6c8350ccd9e007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\03da2d8ae24b981dfa6c8350ccd9e007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\374951515f8423b58f5552bae3d31101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\374951515f8423b58f5552bae3d31101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a194465d8ae67ff5ab7a86fb18d834a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\a194465d8ae67ff5ab7a86fb18d834a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\d1cd4c98e28b89a7589a5f9ebd505b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\d1cd4c98e28b89a7589a5f9ebd505b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\35b443a4d9694166075d51611f5cb037\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\35b443a4d9694166075d51611f5cb037\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\409c80113d9c16bf33261317d2715b40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\409c80113d9c16bf33261317d2715b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\72bdd7b89e961847c8e4af88c5f66125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\72bdd7b89e961847c8e4af88c5f66125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\2fa7aed35c99ec72ac532db2643a3b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\2fa7aed35c99ec72ac532db2643a3b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f42f7ca3201d5acd5288895546f6af1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\6f42f7ca3201d5acd5288895546f6af1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\aa211848803b411a3d9c19ec85eb22d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\aa211848803b411a3d9c19ec85eb22d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\162851cce10f422389b0a44f06042339\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\162851cce10f422389b0a44f06042339\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\38e31d9599537abd2fd1122a5ac7b0e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\38e31d9599537abd2fd1122a5ac7b0e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\aac0893f01c83ecd922bc63d847a5392\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\aac0893f01c83ecd922bc63d847a5392\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\03952ffe16a5f057f382b9476aca76bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gatli\.gradle\caches\transforms-2\files-2.1\03952ffe16a5f057f382b9476aca76bd\AndroidManifest.xml:20:5-44
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		ADDED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2021zjubdsum\Exercises\Homework6\app\src\main\AndroidManifest.xml
