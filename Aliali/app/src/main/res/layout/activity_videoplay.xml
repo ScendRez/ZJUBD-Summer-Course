@@ -139,7 +139,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
                 android:layout_marginTop="16dp"
-                android:text="TA的视频 (15)"
+                android:text="TA的视频"
                 android:textSize="18dp"
                 android:textColor="@color/black"/>
             <View
