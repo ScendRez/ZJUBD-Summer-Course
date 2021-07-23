@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aliali</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="record">录制</string>
+    <string name="submit">提交</string>
+    <string name="record_title">视频录制</string>
+    <string name="submit_title">视频上传</string>
+    <string name="uploading">上传中...</string>
+    <string name="main_title">Aliali - 发现生活中更多的美好</string>
+</resources>
